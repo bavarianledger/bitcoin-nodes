@@ -11,7 +11,7 @@
 - BitBox Base https://base.shiftcrypto.ch/
 - nimbleNODE https://nimblenode.io/
 
-## Software - without dedictated Hardware
+## Software - without dedicated Hardware
 - cyphernode https://github.com/SatoshiPortal/cyphernode
 - Node Launcher https://github.com/lightning-power-users/node-launcher
 - Samourai Dojo https://github.com/Samourai-Wallet/samourai-dojo
