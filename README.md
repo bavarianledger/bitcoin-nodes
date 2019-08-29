@@ -1,6 +1,6 @@
 # List of Bitcoin plug and play Full Nodes
 
-## with dedicated Hardware
+## Hardware - dedicated Hardware
 - RaspiBlitz https://github.com/rootzoll/raspiblitz
 - nodl https://nodl.it
 - Casa node https://store.casa/lightning-node/
@@ -19,3 +19,7 @@
 - nix-bitcoin https://github.com/fort-nix/nix-bitcoin
 - myNode https://github.com/mynodebtc/mynode
 - Nigiri Bitcoin https://github.com/vulpemventures/nigiri
+
+## How-To's - build a node yourself
+- Raspibolt https://github.com/Stadicus/RaspiBolt
+- Ubuntu node box https://github.com/k3tan172/ubuntu-node-box/
