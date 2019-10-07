@@ -23,3 +23,7 @@
 ## How-To's - build a node yourself
 - Raspibolt https://github.com/Stadicus/RaspiBolt
 - Ubuntu node box https://github.com/k3tan172/ubuntu-node-box/
+- FreeNAS RAID https://github.com/seth586/guides/blob/master/FreeNAS
+- BTCPayServer on RPi https://docs.btcpayserver.org/deployment/raspberrypideployment
+- Samourai Dojo on a Raspberry Pi 4 https://bitcoin-on-raspberry-pi-4.gitbook.io/workspace/
+
