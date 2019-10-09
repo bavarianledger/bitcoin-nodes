@@ -56,7 +56,6 @@
   [@mynodebtc](https://twitter.com/mynodebtc)
   https://github.com/mynodebtc/mynode
 - Nigiri Bitcoin
-
   https://github.com/vulpemventures/nigiri
 
 ## How-To's - build a node yourself
