@@ -74,4 +74,7 @@
 - Samourai Dojo on a Raspberry Pi 4
   [@burcakbaskan](https://twitter.com/burcakbaskan)
   https://bitcoin-on-raspberry-pi-4.gitbook.io/workspace/
+- Raspberry Pi 4 Bitcoin Full Node tutorial
+  [@KeithMukai](https://twitter.com/KeithMukai)
+  https://github.com/kdmukai/raspi4_bitcoin_node_tutorial
 
