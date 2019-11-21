@@ -57,6 +57,9 @@
   https://github.com/mynodebtc/mynode
 - Nigiri Bitcoin
   https://github.com/vulpemventures/nigiri
+- Bitcoin-Standup
+  [@ChristopherA](https://twitter.com/ChristopherA)
+  https://github.com/BlockchainCommons/Bitcoin-Standup/
 
 ## How-To's - build a node yourself
 - Raspibolt
