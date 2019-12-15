@@ -60,6 +60,9 @@
 - Bitcoin-Standup
   [@ChristopherA](https://twitter.com/ChristopherA)
   https://github.com/BlockchainCommons/Bitcoin-Standup/
+- Wasabi Wallet
+  [@wasabiwallet](https://twitter.com/wasabiwallet)
+  https://github.com/zkSNACKs/WalletWasabi
 
 ## How-To's - build a node yourself
 - Raspibolt
