@@ -7,7 +7,7 @@
 - nodl 
   [@nodl_it](https://twitter.com/nodl_it) 
   https://nodl.it
-- Casa node 
+- Casa Node 2
   [@CasaHODL](https://twitter.com/CasaHODL)
   https://store.casa/lightning-node/
 - Samourai DOJO
@@ -22,7 +22,7 @@
 - AVADO
   [@Avado_DServer](https://twitter.com/Avado_DServer)
   https://ava.do/
-- BitBox Base
+- BitBoxBase
   [@ShiftCryptoHQ](https://twitter.com/ShiftCryptoHQ)
   https://base.shiftcrypto.ch/
 - nimbleNODE
@@ -34,8 +34,10 @@
 - LuxNode
   [@LuxNode](https://twitter.com/LuxNode)
   https://luxnode.io
-
-
+- HTC Exodus 1s
+  [@htcexodus](https://twitter.com/htcexodus)
+  https://www.htcexodus.com/us/cryptophone/exodus1s/
+    
 ## Software - without dedicated Hardware
 - cyphernode
   [@Cyphernode_io](https://twitter.com/Cyphernode_io)
@@ -65,9 +67,9 @@
   https://github.com/zkSNACKs/WalletWasabi
 
 ## How-To's - build a node yourself
-- Raspibolt
+- Raspibolt v2
   [@Stadicus3000](https://twitter.com/Stadicus3000)
-  https://github.com/Stadicus/RaspiBolt
+  https://stadicus.github.io/RaspiBolt/
 - Ubuntu node box
   [@_k3tan](https://twitter.com/_k3tan)
   https://github.com/k3tan172/ubuntu-node-box/
@@ -83,4 +85,7 @@
 - Raspberry Pi 4 Bitcoin Full Node tutorial
   [@KeithMukai](https://twitter.com/KeithMukai)
   https://github.com/kdmukai/raspi4_bitcoin_node_tutorial
+- Ministry of Nodes Ubuntu Node Box Guide
+  [@_k3tan](https://twitter.com/_k3tan)
+  https://www.youtube.com/watch?v=BIrL1lNsnJQ&list=PLCRbH-IWlcW17JxQ4mdv9DwSMJZlvUOle
 
