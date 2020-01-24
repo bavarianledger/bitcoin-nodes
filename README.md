@@ -88,4 +88,7 @@
 - Ministry of Nodes Ubuntu Node Box Guide
   [@_k3tan](https://twitter.com/_k3tan)
   https://www.youtube.com/watch?v=BIrL1lNsnJQ&list=PLCRbH-IWlcW17JxQ4mdv9DwSMJZlvUOle
+- RoninDojo
+  [@BTCxZelko](https://twitter.com/BTCxZelko)
+  https://github.com/RoninDojo/RoninDojo
 
