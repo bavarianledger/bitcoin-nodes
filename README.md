@@ -7,9 +7,6 @@
 - nodl 
   [@nodl_it](https://twitter.com/nodl_it) 
   https://nodl.it
-- Casa Node 2
-  [@CasaHODL](https://twitter.com/CasaHODL)
-  https://store.casa/lightning-node/
 - Samourai DOJO
   [@SamouraiWallet](https://twitter.com/SamouraiWallet)
   https://samouraiwallet.com/dojo
@@ -65,6 +62,9 @@
 - Wasabi Wallet
   [@wasabiwallet](https://twitter.com/wasabiwallet)
   https://github.com/zkSNACKs/WalletWasabi
+- Casa Node
+  [@CasaHODL](https://twitter.com/CasaHODL)
+  https://github.com/Casa
 
 ## How-To's - build a node yourself
 - Raspibolt v2
