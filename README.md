@@ -90,5 +90,5 @@
   https://www.youtube.com/watch?v=BIrL1lNsnJQ&list=PLCRbH-IWlcW17JxQ4mdv9DwSMJZlvUOle
 - RoninDojo
   [@BTCxZelko](https://twitter.com/BTCxZelko)
-  https://github.com/RoninDojo/RoninDojo
+  https://code.samourai.io/ronindojo/RoninDojo/-/wikis/home
 
