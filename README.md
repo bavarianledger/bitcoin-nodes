@@ -34,6 +34,9 @@
 - HTC Exodus 1s
   [@htcexodus](https://twitter.com/htcexodus)
   https://www.htcexodus.com/us/cryptophone/exodus1s/
+- BCubium
+  [@BGeometrics](https://twitter.com/BGeometrics)
+  https://bgeometrics.com/
     
 ## Software - without dedicated Hardware
 - cyphernode
