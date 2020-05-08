@@ -65,6 +65,9 @@
 - Casa Node
   [@CasaHODL](https://twitter.com/CasaHODL)
   https://github.com/Casa
+- Cryptoanarchistic repository builder
+  [@kixunil](https://twitter.com/kixunil)
+  https://github.com/Kixunil/cryptoanarchy-deb-repo-builder
 
 ## How-To's - build a node yourself
 - Raspibolt v2
