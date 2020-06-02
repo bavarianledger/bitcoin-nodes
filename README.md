@@ -19,9 +19,6 @@
 - AVADO
   [@Avado_DServer](https://twitter.com/Avado_DServer)
   https://ava.do/
-- BitBoxBase
-  [@ShiftCryptoHQ](https://twitter.com/ShiftCryptoHQ)
-  https://base.shiftcrypto.ch/
 - nimbleNODE
   [@nimbleNODE_](https://twitter.com/nimbleNODE_)
   https://nimblenode.io/
@@ -39,9 +36,6 @@
 - cyphernode
   [@Cyphernode_io](https://twitter.com/Cyphernode_io)
   https://github.com/SatoshiPortal/cyphernode
-- Node Launcher
-  [@pierre_rochard](https://twitter.com/pierre_rochard)
-  https://github.com/lightning-power-users/node-launcher
 - Samourai Dojo
   [@SamouraiWallet](https://twitter.com/SamouraiWallet)
   https://github.com/Samourai-Wallet/samourai-dojo
@@ -62,9 +56,6 @@
 - Wasabi Wallet
   [@wasabiwallet](https://twitter.com/wasabiwallet)
   https://github.com/zkSNACKs/WalletWasabi
-- Casa Node
-  [@CasaHODL](https://twitter.com/CasaHODL)
-  https://github.com/Casa
 - Cryptoanarchistic repository builder
   [@kixunil](https://twitter.com/kixunil)
   https://github.com/Kixunil/cryptoanarchy-deb-repo-builder
@@ -95,3 +86,13 @@
   [@BTCxZelko](https://twitter.com/BTCxZelko)
   https://code.samourai.io/ronindojo/RoninDojo/-/wikis/home
 
+## Discontinued Projects - deprectated
+- Casa Node
+  [@CasaHODL](https://twitter.com/CasaHODL)
+  https://github.com/Casa
+ - BitBoxBase
+  [@ShiftCryptoHQ](https://twitter.com/ShiftCryptoHQ)
+  https://base.shiftcrypto.ch/
+- Node Launcher
+  [@pierre_rochard](https://twitter.com/pierre_rochard)
+  https://github.com/lightning-power-users/node-launcher
