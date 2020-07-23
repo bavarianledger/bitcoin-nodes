@@ -85,6 +85,9 @@
 - RoninDojo
   [@BTCxZelko](https://twitter.com/BTCxZelko)
   https://code.samourai.io/ronindojo/RoninDojo/-/wikis/home
+- Umbrel
+  [@getumbrel](https://twitter.com/getumbrel)
+  https://github.com/getumbrel/umbrel-os
 
 ## Discontinued Projects - deprectated
 - Casa Node
