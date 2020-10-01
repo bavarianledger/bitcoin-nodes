@@ -1,9 +1,6 @@
 # List of Bitcoin plug and play Full Nodes
 
 ## Hardware - dedicated Hardware
-- RaspiBlitz 
-  [@RaspiBlitz](https://twitter.com/RaspiBlitz) 
-  https://github.com/rootzoll/raspiblitz
 - nodl 
   [@nodl_it](https://twitter.com/nodl_it) 
   https://nodl.it
@@ -33,6 +30,12 @@
   https://www.htcexodus.com/us/cryptophone/exodus1s/
     
 ## Software - without dedicated Hardware
+- RaspiBlitz 
+  [@RaspiBlitz](https://twitter.com/RaspiBlitz) 
+  https://github.com/rootzoll/raspiblitz
+- myNode
+  [@mynodebtc](https://twitter.com/mynodebtc)
+  https://github.com/mynodebtc/mynode
 - cyphernode
   [@Cyphernode_io](https://twitter.com/Cyphernode_io)
   https://github.com/SatoshiPortal/cyphernode
@@ -45,9 +48,6 @@
 - nix-bitcoin
   [@n1ckler](https://twitter.com/n1ckler)
   https://github.com/fort-nix/nix-bitcoin
-- myNode
-  [@mynodebtc](https://twitter.com/mynodebtc)
-  https://github.com/mynodebtc/mynode
 - Nigiri Bitcoin
   https://github.com/vulpemventures/nigiri
 - Bitcoin-Standup
@@ -59,6 +59,10 @@
 - Cryptoanarchistic repository builder
   [@kixunil](https://twitter.com/kixunil)
   https://github.com/Kixunil/cryptoanarchy-deb-repo-builder
+- hack0
+  [@dglab_official](https://twitter.com/dglab_official)
+  https://github.com/dgarage/hack0-armbian/tree/btcpay/userpatches
+  
 
 ## How-To's - build a node yourself
 - Raspibolt v2
