@@ -27,9 +27,9 @@
   https://github.com/fort-nix/nix-bitcoin
 - Nigiri Bitcoin
   https://github.com/vulpemventures/nigiri
-- Bitcoin-Standup
+- GordianServer-macOS
   [@ChristopherA](https://twitter.com/ChristopherA)
-  https://github.com/BlockchainCommons/Bitcoin-Standup/
+  https://github.com/BlockchainCommons/GordianServer-macOS
 - Wasabi Wallet
   [@wasabiwallet](https://twitter.com/wasabiwallet)
   https://github.com/zkSNACKs/WalletWasabi
