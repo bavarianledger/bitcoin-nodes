@@ -91,6 +91,9 @@
 - HTC Exodus 1s
   [@htcexodus](https://twitter.com/htcexodus)
   https://www.htcexodus.com/us/cryptophone/exodus1s/
+- The Bitcoin Machine
+  [@BitcoinMachines](https://twitter.com/BitcoinMachines)
+  https://thebitcoinmachines.com/  
 
 ## Discontinued Projects - deprectated
 - Casa Node
