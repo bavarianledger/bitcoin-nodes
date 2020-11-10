@@ -1,6 +1,6 @@
 # List of Bitcoin plug and play Full Nodes
     
-## Software - without dedicated Hardware
+## Software - without dedicated Hardware (DIY)
 - RaspiBlitz 
   [@RaspiBlitz](https://twitter.com/RaspiBlitz) 
   https://github.com/rootzoll/raspiblitz
@@ -40,7 +40,7 @@
   [@dglab_official](https://twitter.com/dglab_official)
   https://github.com/dgarage/hack0-armbian/tree/btcpay/userpatches
 
-## How-To's - build a node yourself
+## How-To's - build a node yourself (Do All Yourself)
 - Raspibolt v2
   [@Stadicus3000](https://twitter.com/Stadicus3000)
   https://stadicus.github.io/RaspiBolt/
@@ -63,37 +63,37 @@
   [@_k3tan](https://twitter.com/_k3tan)
   https://www.youtube.com/watch?v=BIrL1lNsnJQ&list=PLCRbH-IWlcW17JxQ4mdv9DwSMJZlvUOle
 
-## Hardware - dedicated Hardware 
+## Hardware - dedicated Hardware (plug and play)
 - nodl 
   [@nodl_it](https://twitter.com/nodl_it) 
   https://nodl.it
 - Samourai DOJO
   [@SamouraiWallet](https://twitter.com/SamouraiWallet)
   https://samouraiwallet.com/dojo
+- RaspiBlitz 
+  [@RaspiBlitz](https://twitter.com/RaspiBlitz) 
+  https://shop.fulmo.org/raspiblitz/
 - Lightning in a Box
   [@lightninginabox](https://twitter.com/lightninginabox)
   https://lightninginabox.co/
 - BTCPi
   [@lightninginabox](https://twitter.com/lightninginabox)
-  https://lightninginabox.co/product/btcpi/
+  https://lightninginabox.co/product/lightning-in-a-box/
 - AVADO
   [@Avado_DServer](https://twitter.com/Avado_DServer)
   https://ava.do/
-- nimbleNODE
-  [@nimbleNODE_](https://twitter.com/nimbleNODE_)
-  https://nimblenode.io/
 - hack0
   [@dglab_official](https://twitter.com/dglab_official)
   https://dglab.com
-- LuxNode
-  [@LuxNode](https://twitter.com/LuxNode)
-  https://luxnode.io
 - HTC Exodus 1s
   [@htcexodus](https://twitter.com/htcexodus)
   https://www.htcexodus.com/us/cryptophone/exodus1s/
 - The Bitcoin Machine
   [@BitcoinMachines](https://twitter.com/BitcoinMachines)
   https://thebitcoinmachines.com/  
+- Start9 Embassy
+  [@start9labs](https://twitter.com/start9labs)
+  https://store.start9labs.com/collections/embassy
 
 ## Discontinued Projects - deprectated
 - Casa Node
@@ -105,3 +105,9 @@
 - Node Launcher
   [@pierre_rochard](https://twitter.com/pierre_rochard)
   https://github.com/lightning-power-users/node-launcher
+- LuxNode
+  [@LuxNode](https://twitter.com/LuxNode)
+  https://luxnode.io
+- nimbleNODE
+  [@nimbleNODE_](https://twitter.com/nimbleNODE_)
+  https://nimblenode.io/
