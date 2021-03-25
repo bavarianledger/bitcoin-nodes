@@ -39,6 +39,10 @@
 - hack0
   [@dglab_official](https://twitter.com/dglab_official)
   https://github.com/dgarage/hack0-armbian/tree/btcpay/userpatches
+- eznode
+  [@eznode_](https://twitter.com/eznode_)
+  https://github.com/ez-org/eznode
+
 
 ## How-To's - build a node yourself (Do All Yourself)
 - Raspibolt v2
