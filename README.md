@@ -10,6 +10,9 @@
 - Umbrel
   [@getumbrel](https://twitter.com/getumbrel)
   https://github.com/getumbrel/umbrel-os
+- Citadel Bitcoin node
+  [@runcitadel](https://twitter.com/runcitadel)
+  https://github.com/runcitadel/citadel
 - RoninDojo
   [@BTCxZelko](https://twitter.com/BTCxZelko)
   https://wiki.ronindojo.io/
@@ -19,9 +22,6 @@
 - Samourai Dojo
   [@SamouraiWallet](https://twitter.com/SamouraiWallet)
   https://code.samourai.io/dojo/samourai-dojo
-- ABCore
-  [@LarryBitcoin](https://twitter.com/LarryBitcoin)
-  https://github.com/greenaddress/abcore
 - nix-bitcoin
   [@n1ckler](https://twitter.com/n1ckler)
   https://github.com/fort-nix/nix-bitcoin
@@ -45,15 +45,15 @@
 
 
 ## How-To's - build a node yourself (Do All Yourself)
-- Raspibolt v2
+- Raspibolt v3
   [@Stadicus3000](https://twitter.com/Stadicus3000)
   https://stadicus.github.io/RaspiBolt/
 - Ubuntu node box
   [@_k3tan](https://twitter.com/_k3tan)
   https://github.com/k3tan172/ubuntu-node-box/
-- FreeNAS RAID
+- TrueNASnode - full bitcoin stack deployment guide
   [@seth586](https://twitter.com/seth586)
-  https://github.com/seth586/guides/blob/master/FreeNAS
+  https://github.com/seth586/guides/tree/master/FreeNAS/bitcoin
 - BTCPayServer on RPi
   [@BtcpayServer](https://twitter.com/BtcpayServer)
   https://docs.btcpayserver.org/deployment/raspberrypideployment
@@ -115,3 +115,6 @@
 - nimbleNODE
   [@nimbleNODE_](https://twitter.com/nimbleNODE_)
   https://nimblenode.io/
+- ABCore
+  [@LarryBitcoin](https://twitter.com/LarryBitcoin)
+  https://github.com/greenaddress/abcore  
