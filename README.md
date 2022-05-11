@@ -63,9 +63,9 @@
 - Raspberry Pi 4 Bitcoin Full Node tutorial
   [@KeithMukai](https://twitter.com/KeithMukai)
   https://github.com/kdmukai/raspi4_bitcoin_node_tutorial
-- Ministry of Nodes - Ubuntu Node Box Guide
+- Ministry of Nodes - Node Box Guide 2022
   [@_k3tan](https://twitter.com/_k3tan)
-  https://www.youtube.com/playlist?list=PLCRbH-IWlcW290O0N0lQV6efxuCA5Ja8c
+  https://www.youtube.com/playlist?list=PLCRbH-IWlcW2A_kpx2XwAMgT0rcZEZ2Cg
   
 ## Hardware - dedicated Hardware (plug and play)
 - nodl 
