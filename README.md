@@ -1,10 +1,6 @@
 # List of Bitcoin plug and play Full Nodes
     
 ## Software - without dedicated Hardware (DIY)
-- MiniBolt 
-  https://github.com/minibolt-guide/minibolt
-- RaMix
-  https://github.com/minibolt-guide/ramix-node
 - RaspiBlitz 
   [@RaspiBlitz](https://twitter.com/RaspiBlitz) 
   https://github.com/rootzoll/raspiblitz
@@ -49,6 +45,10 @@
 
 
 ## How-To's - build a node yourself (Do All Yourself)
+- MiniBolt 
+  https://github.com/minibolt-guide/minibolt
+- RaMix
+  https://github.com/minibolt-guide/ramix-node
 - Raspibolt v3
   [@Stadicus3000](https://twitter.com/Stadicus3000)
   https://stadicus.github.io/RaspiBolt/
